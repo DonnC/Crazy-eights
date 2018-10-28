@@ -1,4 +1,4 @@
-# K2-Data-Science
+# Crazy eights
 Crazy eights is a card game and the rules can be found at https://en.wikipedia.org/wiki/Crazy_Eights
 This program is a two-player game (the second player is a dealer). The dealer play follows some simplified logic and may not exactly represent how in reality he/she would play.
 
