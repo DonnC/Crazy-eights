@@ -1,5 +1,5 @@
 # K2-Data-Science
-Crazy eights is a card game and the rules are described at https://en.wikipedia.org/wiki/Crazy_Eights
+Crazy eights is a card game and the rules can be found at https://en.wikipedia.org/wiki/Crazy_Eights
 This program is a two-player game (the second player is a dealer). The dealer play follows some simplified logic and may not exactly represent how in reality he/she would play.
 
 Anyway, here is a short description of the rules:
